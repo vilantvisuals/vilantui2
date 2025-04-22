@@ -30,14 +30,14 @@ local Library = {
     HudRegistry = {};
 
     FontColor = Color3.fromRGB(255, 255, 255);
-    MainColor = Color3.fromRGB(20, 20, 18);
-    BackgroundColor = Color3.fromRGB(13, 13, 19);
-    AccentColor = Color3.fromRGB(11, 0, 217);
-    OutlineColor = Color3.fromRGB(23, 23, 31);
+    MainColor = Color3.fromRGB(25, 43, 26);
+    BackgroundColor = Color3.fromRGB(28, 48, 33);
+    AccentColor = Color3.fromRGB(0, 0, 0);
+    OutlineColor = Color3.fromRGB(12, 20, 13);
     RiskColor = Color3.fromRGB(255, 50, 50),
 
     Black = Color3.new(0, 0, 0);
-    Font = Enum.Font.Code,
+    Font = Enum.Font.Patrick Hand,
 
     OpenedFrames = {};
     DependencyBoxes = {};
